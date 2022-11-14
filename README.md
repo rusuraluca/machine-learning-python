@@ -9,8 +9,12 @@ via [freeCodeCamp](https://www.freecodecamp.org/learn/machine-learning-with-pyth
 
 ## Projects
 
-[Rock Paper Scissors]
-[Cat and Dog Image Classifier]
-[Book Recommendation Engine using KNN]
-[Linear Regression Health Costs Calculator]
-[Neural Network SMS Text Classifier]
+[Rock Paper Scissors]()
+
+[Cat and Dog Image Classifier]()
+
+[Book Recommendation Engine using KNN]()
+
+[Linear Regression Health Costs Calculator]()
+
+[Neural Network SMS Text Classifier]()
